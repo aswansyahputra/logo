@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="225.10161mm"
+   height="47.625mm"
+   viewBox="0 0 225.10161 47.624998"
+   version="1.1"
+   id="svg95"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo_sensolutionid.svg"
+   inkscape:export-filename="/home/aswansyahputra/sensolutionid.png"
+   inkscape:export-xdpi="300.18182"
+   inkscape:export-ydpi="300.18182">
+  <defs
+     id="defs89">
+    <linearGradient
+       id="linearGradient3109"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2c89a0;stop-opacity:1;"
+         offset="0"
+         id="stop3107" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2954"
+       id="linearGradient50"
+       gradientUnits="userSpaceOnUse"
+       x1="45.702541"
+       y1="59.550053"
+       x2="89.706009"
+       y2="59.550053" />
+    <linearGradient
+       id="linearGradient2954"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#37c871;stop-opacity:1;"
+         offset="0"
+         id="stop2952" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="449.71306"
+     inkscape:cy="7.2192288"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1313"
+     inkscape:window-height="740"
+     inkscape:window-x="53"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata92">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(205.91094,120.2264)">
+    <g
+       transform="matrix(0.76140614,0,0,0.76140614,-240.69414,-135.04615)"
+       id="g38">
+      <path
+         style="fill:none;fill-opacity:1;stroke:url(#linearGradient3109);stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 88.479322,32.691701 -14.77061,-8.494892 c -5.2879,-2.987141 -11.76755,-2.987141 -17.0268,0.04928 -5.25923,3.036421 -8.49906,8.647964 -8.49906,14.720809 0,6.072845 3.23983,11.684388 8.47073,14.770278 l 14.74208,8.54427"
+         id="path34"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:url(#linearGradient50);stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 63.964882,39.250665 14.74208,8.544284 c 5.25925,3.036427 8.49905,8.647967 8.49905,14.720827 0,6.07283 -3.23981,11.68439 -8.49905,14.72082 -5.25923,3.03642 -11.73891,3.03642 -16.99816,-2e-5 l -14.75626,-8.51954"
+         id="path36"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsccc" />
+    </g>
+    <text
+       id="text42"
+       y="-87.727051"
+       x="-162.27621"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.39253616px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.44363338"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.39253616px;font-family:Lato;-inkscape-font-specification:Lato;fill:#333333;stroke-width:0.44363338"
+         y="-87.727051"
+         x="-162.27621"
+         id="tspan40"
+         sodipodi:role="line">Sensolution.ID</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.98192787px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.96112669"
+       x="-161.86099"
+       y="-74.619507"
+       id="text46"><tspan
+         sodipodi:role="line"
+         id="tspan44"
+         x="-161.86099"
+         y="-74.619507"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.98192787px;font-family:Lato;-inkscape-font-specification:'Lato Light';fill:#333333;stroke-width:0.96112669">Food sensory and sensometrics consulting</tspan></text>
+  </g>
+</svg>
